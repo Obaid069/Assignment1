@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+.navContainer > .items{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+
+}
+li {
+    list-style-type: none;
+}
